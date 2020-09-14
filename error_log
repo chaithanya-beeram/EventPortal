@@ -1,0 +1,2 @@
+[15-Apr-2020 17:47:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpb9792/public_html/Beeram_ciudad/authenticate.php on line 9
+[15-Apr-2020 17:50:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpb9792/public_html/Beeram_ciudad/authenticate.php on line 9
